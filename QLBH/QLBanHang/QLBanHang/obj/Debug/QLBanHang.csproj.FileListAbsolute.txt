@@ -1,0 +1,14 @@
+E:\QLBH\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+E:\QLBH\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+E:\QLBH\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.AssemblyReference.cache
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.SuggestedBindingRedirects.cache
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmMain.resources
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmDMChatLieu.resources
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmDMNhanVien.resources
+E:\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmTimHDBan.resources
